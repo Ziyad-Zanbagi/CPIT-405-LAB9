@@ -45,3 +45,14 @@ CREATE TABLE tasks(
 Once the database has been installed and the table has been created, simply run the project and visit the given URL.
 
 
+## Output of the program
+
+![image](https://github.com/Ziyad-Zanbagi/CPIT-405-LAB9/assets/104837671/af65b1df-2b4a-430a-b476-6ce809ea73c9)
+
+After pressing mark all as done:
+
+![image](https://github.com/Ziyad-Zanbagi/CPIT-405-LAB9/assets/104837671/c70b468e-e4c9-4f66-b1a7-9e252c7d68f6)
+
+
+
+
